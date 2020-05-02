@@ -3,9 +3,8 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Edaan'
 description: how are you?
-image: null
+image: assets/images/bells.jpg
 author: null
 show_tile: false
 ---
-
-You stink
+Products require new features all the time.

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: landing
 title: Rikai Labs
-description: Chatbots
-image: assets/images/pic03.jpg
+description: Building products and a company from scratch
+image: assets/images/shanghai-banner2.jpg
 nav-menu: true
 ---
 Rikai Labs blends chatbots powered by A.I. and N.L.P.

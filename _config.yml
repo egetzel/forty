@@ -21,11 +21,12 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url: https://github.com/egetzel
-gitlab_url: https://gitlab.com/u/egetzel
+gitlab_url:
 linkedin_url: https://www.linkedin.com/in/egetzel
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/egetzel
+medium_url: https://medium.com/@egetzel
 
 # build settings
 markdown: kramdown
