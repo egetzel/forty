@@ -3,7 +3,7 @@ title: Edaan Getzel
 subtitle: Making technology more human
 email: edaan@renlitech.com
 description: Making technology more human
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/personal-site" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
