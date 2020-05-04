@@ -6,6 +6,98 @@ image: assets/images/krakow-banner.jpg
 nav-menu: true
 ---
 
+<div id="main">
+	<section id="one">
+		<div class="inner">
+			<ul class="actions">
+				<li><p class="button">EdTech</p></li>
+				<li><p class="button special">Chatbots</p></li>
+				<li><p class="button">Product Management</p></li>
+				<li><p class="button special">Engineering</p></li>
+				<li><p class="button">Mobile Apps</p></li>
+			</ul>
+      <header class="major">
+				<h2>Background</h2>
+			</header>
+      <p><i>Backed by Nikkei and the Financial Times, Excedo combines Business English soft skills development, and cross-cultural understanding in an effective & engaging learning solution for global business professionals.</i></p>
+			<p>In 2018, I began a consulting project with Excedo to help them to implement and develop effective business cases to scale one on one English language instruction. Eventually I worked with them on a year long project to manage and build their chatbot and messaging capability for their Android and iOS apps.</p>
+		</div>
+	</section>
+<section id="two" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Problem</h3>
+				</header>
+				<p>The competition for Sr DevOps engineers in San Francisco in 2014 was incredibly high. Everyone needed (and still needs) Sr DevOps Engineers to build and maintain their infrasctructure. The challenge then was to find incredible engineers who aligned with the company values and culture at a time when everyone else was also looking for their services.</p>
+					<p>I also knew that if we were to be able to recruit DevOps engineers, we would have to offer something different from what other companies were offering. The following three core values made New Context unique and also helped me to identify and target candidates
+        <ul>
+	        <li>Remote working</li>
+					<li>Committed DevOps practioners</li>
+	        <li>Interesting projects and clients</li>
+				</ul></p>
+				<p>Because New Context was a consulting company, it's ability to generate additional revenue and grow was dependant on it being able to hire new Engineers. Additionally, any time that other engineers used interview candidates was time that they could not be billing the clients.
+
+				As a result, executives were extremely interested in the process and reporting of the hiring process.</p>
+			</div>
+		</div>
+	</section>
+  <section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Persona</h3>
+				</header>
+				<p>I started by identifying a user persona that I would target and reach out to on LinkedIn.
+				<ul>
+					<li>Working for companies with good DevOps practices (Apollo Group, Cerner)</li>
+					<li>Working in cities with limited DevOps opportunities (Phoenix, Kansas City)</li>
+					<li>Had connections to exisiting team members</li>
+				</ul></p>
+				<header class="major">
+					<h3>Process</h3>
+				</header>
+				<p>Once, I had a target persona, I set out to design and recruiting process and work flow that:
+				<ul>
+					<li>Responsive and agile to business needs</li>
+					<li>Minimized time required of existing engineers</li>
+					<li>Respectful of candidates time</li>
+					<li>Cost effective - recruiting can get expensive</li>
+				</ul></p>
+				<header class="major">
+					<h3>Product</h3>
+				</header>
+					<p>To track each step of the hiring process, I used Salesforce to build an applicant tracking system because:</p>
+				<ul>
+					<li>C-Suite was already spending a lot of time in Salesforce</li>
+					<li>Easy to generate forms for engineers to give feedback</li>
+					<li>Build in capability to create hiring dashboards and reports</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section id="three">
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>Results</h2>
+				</header>
+				<p>After six months of recruiting we were able to:
+				<ul>
+					<li>Hire 16 Sr DevOps and Security Engineers</li>
+					<li>Each hire cost roughly $1600 per hire</li>
+					<li>Hire and onboard all engineers on an average of 3.5 weeks per hire</li>
+				</ul></p>
+			</div>
+		</div>
+	</section>
+
+
+
+
+
+
 <!-- Main -->
 <div id="main" class="alt">
 

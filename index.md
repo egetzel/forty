@@ -8,4 +8,9 @@ author: null
 show_tile: false
 nav-menu: false
 ---
-What I am currently reading
+* The Meritocracy Trap
+* Quiet
+* Ten Drugs
+* American Kingpin
+* Range
+* Educated

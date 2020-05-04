@@ -1,9 +1,9 @@
 # site settings
 title: Edaan Getzel
-subtitle: Making technology more human
+subtitle: Finding solutions amid uncertainty
 email: edaan@renlitech.com
-description: Making technology more human
-baseurl:  # the subpath of your site, e.g. /blog
+description: Finding solutions amid uncertainty
+baseurl:  #
 url: http://egetzel.github.io/personal-site
 author:
 street_address:
