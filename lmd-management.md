@@ -19,61 +19,62 @@ nav-menu: true
       <header class="major">
 				<h2>Background</h2>
 			</header>
-      <p>LMD Management is a full service real estate investment and operations company operating in Denver, Colorado.</p>
-      <header class="major">
-				<h2>Problem</h2>
-			</header>
-			<p>In 2010, LMD Management
+      <p><i>LMD Management is a full service real estate investment and operations company operating in Denver, Colorado.</i></p>
+			<p>In 2010, the commercial real estate market was at the heights of the Great Recession and banks were desperately looking for buyers to take foreclosed off of their balance sheets.
+
+				At this time, a bank came to us to ask if we would be interested taking over a C class building in Denver, Colorado for roughly 40 cents on the dollar. We agreed. The case study below outlines:
 	    <ul>
-	    <li>Very little user data collected</li>
-	    <li>Extremely high CAC</li>
-	    <li>Tiny e-commerce sales</li>
+	    <li>How we identified a user problem</li>
+	    <li>How I built and marketed a product for the problem</li>
+	    <li>How we were able to increase revenue 3X at the height of the recession</li>
 	    </ul></p>
 		</div>
 	</section>
 <section id="two" class="spotlights">
 	<section>
-		<span class="image"><img src="{% link assets/images/bud-banner.jpg %}" alt="" class="image" data-position="center center" /></span>
+		<span class="image"><img src="{% link assets/images/louisiana-front.jpg %}" alt="" class="image" data-position="center center" /></span>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Problem</h3>
+				</header>
+				<p>We took over a building in December of 2010 that was 40% full with tenants and existing leases. After drastically cutting expenses and bringing in our own group of vendors, I was able to make the building break even based upon the strength of our financing and creative leasing of our parking lot and roof top space to larger companies.</p>
+
+        We then realized that if the building was to be cash flow positive we would need to figure out how get tenants to sign leases and move in. The problem was that in 2010, commercial real estate leases were:
+        <ul>
+	        <li>Expensive ($18/sqft)</li>
+					<li>Big (minimum 1000 sqft)</li>
+	        <li>Long (3-5 years)</li>
+	        <li>Complicated (Require lawyers to negotiate)</li>
+				</ul>
+        <p>With so much uncertainty in the economy, no one was going to sign an expensive long term lease. However, we did believe that people would be willing to sign a lease if it meant that they were betting on themselves.</p>
+			</div>
+		</div>
+	</section>
+  <section>
+			<span class="image"><img src="{% link assets/images/louisiana-inside.jpg %}" alt="" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Solution</h3>
 				</header>
-				<p>To fix this problem for brands, my team built our WelcomeBot product with the goal of helping brands to:
-        Create a dynamic, personalized brand onboarding experience
-        Help brands learn more about their customers
-        Increase sales
-        Decrease CAC via gamified social viral sharing</p>
-
-        My core team consisted of:
-        <ul>
-        <li>Product Marketing</li>
-        <li>UX</li>
-        <li>Content / marketing</li>
-        <li>Chatbot scripters</li>
-        <li>Engineers (NLP, platform and integration engineers)</li></ul>
-
-        <p>Each WelcomeBot consisted of 3 critical steps in the user journey.
-        Use chat to onboard users to identify a user persona. (capture additional data)
-        Present each user a "sharable" piece of content based upon persona (social virality, customer acquisition)
-        Present an item in the e-commerce store based up persona (increase revenue)</p>
-			</div>
-		</div>
-	</section>
-  <section>
-			<span class="image"><img src="{% link assets/images/bud-banner.jpg %}" alt="" data-position="center center" /></span>
-		<div class="content">
-			<div class="inner">
+				<p>So rather than go after the SMBs and SMEs that dominate C class real estate, we did an analysis and thought to ourselves <blockquote cite="http://">
+						Who actually wants and office right now?
+				</blockquote> What we determined was that the person who was most likely wanted an office was probably someone who:</p>
+				<ul>
+					<li>Had their own small business and no longer wanted to work from home.</li>
+					<li>Was frustrated with the job market and wanted to start their own business.</li>
+				</ul>
 				<header class="major">
-					<h3>Product launch and case study</h3>
+					<h3>Product</h3>
 				</header>
-				<p>In order to launch this product successfully, we needed a trophy brand to adopt the product to give WelcomeBot the product the visibility, credibility and traffic to make WelcomeBot attractive to other customers.</p>
-
-        <p>I approached the marketing team at Budweiser and pitched them the idea for an exclusive product launch to help Budweiser onboard people to their WeChat fan club and increase sales in their e-commerce store. They loved the product and idea and agreed to launch the product, but gave us a 2 week window to build, integrate and launch the product. We frantically worked with their marketing team and aligned WelcomeBot with their existing marketing campaign and asked Budweiser users in China -- "Which Type Party Animal Are You?"</p>
-
-        <p>We drew inspiration from BuzzFeed quizzes and built and structured a simple chatbot conversation that interviewed users and asked them questions about their party habits -- how often they party? who they go with? how many drinks they had? We worked extensively with their social media agency to collect the relevant content and on-brand messaging and marketing collateral, while also working with their social agency's technical team to manage api integration, tokenization, crm, QA and data privacy issues.</p>
-
-        <p>Lastly, because we were caught in between departments at Budweiser (customer success, marketing, and e-commerce) we worked with each of the different stakeholders in each department so that we could A|B test and derive metrics that were measured against each department's overall KPI.</p>
+					<p>So we went about creating a small shared office concept that companies like WeWork would eventually take globally. Our concept was quite simple</p>
+				<ul>
+					<li><b>Small</b> Your own 200 sqft office</li>
+					<li><b>Inexpensive</b> $200 / month</li>
+					<li><b>No commitement</b> Initial three month lease, which converts to month to month after.</li>
+				</ul>
+				<p>The go to market for this product was pretty straight forward. We used largely used Craig's list and a referral system to find and attract new tenants.</p>
 			</div>
 		</div>
 	</section>
@@ -83,18 +84,20 @@ nav-menu: true
 				<header class="major">
 					<h2>Results</h2>
 				</header>
-				<p>The results of WelcomeBot exceeded even our own hopes and ambitions. Because we A|B tested the experience in real time, we had clear benchmarks for comparison. After using WelcomeBot we found that:
+				<p>The results of our small office concept exceeded all expectations
 				<ul>
-					<li>522% more people signed up for the fan club campaign</li>
-					<li>200% more sales after talking to WelcomeBot</li>
-					<li>14% increase in users by using social sharing</li>
-					<li>Reduce customer acquisition cost 80%</li>
-					<li>62% completion rate of onboarding experience</li>
+					<li>250% increase in revenue in 4 months</li>
+					<li>Vacancy reduced from 60% to 2% within 4 months</li>
+					<li>Liquidity event for investors</li>
 				</ul>
-				<h4>Persona data</h4>
+				<p>Our success at such difficult times circulated around the relatively small commercial real estate community, and within six months another local bank offered to finance us if we could buy two more commercial properties that were in foreclosure.
+
+				We took their offer and applied the same strategy, and methodology and had similar results within the four months.</p>
+				<h4>Selling the company</h4>
+					<p>In 2014 an investement group offered to buy the entire commercial real estate portfolio.</p>
 				<ul>
-					<li>76% of users have 3+ drinks when they go out the number users</li>
-					<li>40% of users identify as the DJ persona	</li>
+					<li>7X return to investors</li>
+					<li>48 consecutive month of positive cash flow</li>
 				</ul></p>
 			</div>
 		</div>
