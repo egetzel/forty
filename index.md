@@ -8,4 +8,4 @@ author: null
 show_tile: false
 nav-menu: false
 ---
-Products require new features all the time.
+What I am currently reading
