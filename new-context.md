@@ -3,7 +3,8 @@ layout: landing
 title: New Context
 description: Building a recruiting product to scale operations
 image: assets/images/sequoia.jpg
-nav-menu: true
+nav-menu: false
+show_tile: true
 tags: DevOps, Data, Product Development, Operations, Recruitment
 ---
 <div id="main">
