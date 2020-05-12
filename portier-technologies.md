@@ -3,7 +3,8 @@ layout: landing
 title: Portier Technologies
 description: Branding an existing product
 image: assets/images/vietnam-banner.jpg
-nav-menu: true
+nav-menu: false
+show_tile: true
 ---
 <div id="main">
 	<section id="one">

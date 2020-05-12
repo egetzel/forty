@@ -3,7 +3,8 @@ layout: landing
 title: Excedo
 description: Bringing technical product expertise to a chat experience
 image: assets/images/krakow-banner.jpg
-nav-menu: true
+nav-menu: false
+show_tile: true
 ---
 
 <div id="main">

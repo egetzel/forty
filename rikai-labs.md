@@ -3,7 +3,8 @@ layout: landing
 title: Rikai Labs
 description: Building products and a company from scratch
 image: assets/images/shanghai-banner2.jpg
-nav-menu: true
+nav-menu: false
+show_tile: true
 ---
 <div id="main">
 	<section id="one">

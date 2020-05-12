@@ -3,7 +3,8 @@ layout: post
 title: LMD Management
 description: The right product at the right time
 image: assets/images/hampden.jpg
-nav-menu: true
+nav-menu: false
+show_tile: true
 ---
 <div id="main">
 	<section id="one">
