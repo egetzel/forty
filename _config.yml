@@ -3,8 +3,8 @@ title: Edaan Getzel
 subtitle: Finding solutions amid uncertainty
 email: edaan@renlitech.com
 description: Finding solutions amid uncertainty
-baseurl:
-url: http://egetzel.github.io/personal-site
+baseurl: /personal-site
+url: https://egetzel.github.io
 author:
 street_address:
 city:
