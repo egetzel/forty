@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: New Context
-description: Building a recruiting product to scale operations
+description: Leveraging an unfair advantage to outcompete Google
 image: assets/images/sequoia.jpg
 nav-menu: false
 show_tile: true
@@ -22,7 +22,7 @@ tags: DevOps, Data, Product Development, Operations, Recruitment
 				<h2>Background</h2>
 			</header>
       <p><i>New Context Services is a Lean Security company based in San Francisco that builds secure, scalable infrastructure for enterprise clients.</i></p>
-			<p>In 2014, New Context's consulting services were expanding quickly and the company needed to double its team of Sr. DevOps and Security engineers to fullfill existing and upcoming contracts. This case study will outline how I helped them to:
+			<p>In 2014, New Context's consulting services were expanding quickly and the company needed to double its team of Sr. DevOps and Security engineers to fulfill existing and upcoming contracts. This case study will outline how I helped them to:
 	    <ul>
 	    <li>Double their engineering team</li>
 	    <li>Build an Applicant tracking system in Salesforce</li>
@@ -37,7 +37,7 @@ tags: DevOps, Data, Product Development, Operations, Recruitment
 				<header class="major">
 					<h3>Problem</h3>
 				</header>
-				<p>The competition for Sr DevOps engineers in San Francisco in 2014 was incredibly high. Everyone needed (and still needs) Sr DevOps Engineers to build and maintain their infrasctructure. The challenge then was to find incredible engineers who aligned with the company values and culture at a time when everyone else was also looking for their services.</p>
+				<p>The competition for Sr DevOps engineers in San Francisco in 2014 was incredibly high. Everyone needed (and still needs) Sr DevOps Engineers to build and maintain their infrastructure. The challenge then was to find incredible engineers who aligned with the company values and culture at a time when everyone else was also looking for their services.</p>
 					<p>I also knew that if we were to be able to recruit DevOps engineers, we would have to offer something different from what other companies were offering. The following three core values made New Context unique and also helped me to identify and target candidates
         <ul>
 	        <li>Remote working</li>
@@ -60,7 +60,7 @@ tags: DevOps, Data, Product Development, Operations, Recruitment
 				<ul>
 					<li>Working for companies with good DevOps practices (Apollo Group, Cerner)</li>
 					<li>Working in cities with limited DevOps opportunities (Phoenix, Kansas City)</li>
-					<li>Had connections to exisiting team members</li>
+					<li>Had connections to existing team members</li>
 				</ul></p>
 				<header class="major">
 					<h3>Process</h3>

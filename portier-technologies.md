@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Portier Technologies
-description: Branding an existing product
+description: Connecting sales with technology
 image: assets/images/vietnam-banner.jpg
 nav-menu: false
 show_tile: true
@@ -30,7 +30,7 @@ show_tile: true
 	</section>
 <section id="two" class="spotlights">
 	<section>
-		<span class="image fit"><img src="{% link assets/images/portier-at-pool.jpg %}" alt="" data-position="center center" /></span>
+		<span class="image fit"><img src="assets/images/portier-at-pool.jpg" alt="" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -46,7 +46,7 @@ show_tile: true
 		</div>
 	</section>
   <section>
-		<span class="image fit"><img src="{% link assets/images/portier-phone-with-stand.png %}" alt="" data-position="center center" /></span>
+		<span class="image fit"><img src="assets/images/portier-phone-with-stand.png" alt="" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -72,7 +72,7 @@ show_tile: true
 		</div>
 	</section>
 	<section id="three">
-		<span class="image fit"><img src="{% link assets/images/portier-40-percent.png %}" alt="" data-position="25% 25%" /></span>
+		<span class="image fit"><img src="assets/images/portier-40-percent.png" alt="" data-position="25% 25%" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">

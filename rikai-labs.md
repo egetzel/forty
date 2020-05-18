@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Rikai Labs
-description: Building products and a company from scratch
+description: Launching A.I. product for the Chinese market
 image: assets/images/shanghai-banner2.jpg
 nav-menu: false
 show_tile: true
