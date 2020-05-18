@@ -35,7 +35,7 @@ show_tile: true
 	</section>
 <section id="two" class="spotlights">
 	<section>
-		<span class="image"><img src="{% link assets/images/bud.png %}" alt="" class="image" data-position="center center" /></span>
+		<span class="image"><img src="assets/images/bud.png" alt="" class="image" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -63,7 +63,7 @@ show_tile: true
 		</div>
 	</section>
   <section>
-			<span class="image"><img src="{% link assets/images/bud-banner.jpg %}" alt="" data-position="center center" /></span>
+			<span class="image"><img src="assets/images/bud-banner.jpg" alt="" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
