@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Excedo
-description: Bringing technical product expertise to a chat experience
+description: Defining a chatbot experience
 image: assets/images/krakow-banner.jpg
 nav-menu: false
 show_tile: true
@@ -49,13 +49,13 @@ show_tile: true
 				<p>From my time at Rikai Labs, I had become an expert in the chatbot scripting language <b>Rivescript</b>. Using my expertise in this area, I implemented:
 				<ul>
 					<li>A passive, more responsive chatbot experience</li>
-					<li>A customer support alerting system to indentify when learners required assistance</li>
+					<li>A customer support alerting system to identify when learners required assistance</li>
 					<li>A content management system that quickly allowed new content to be created and deployed for different personas</li>
 				</ul></p>
 				<header class="major">
 					<h3>Prototyping</h3>
 				</header>
-				<p>While the scripting language allowed me to mock up prototypes, it still reqiured that I be able to see the chatbot in action in the app. So I worked with Sr DevOps engineers to create a local and cloud based Docker environment that let us prototype for:
+				<p>While the scripting language allowed me to mock up prototypes, it still required that I be able to see the chatbot in action in the app. So I worked with Sr DevOps engineers to create a local and cloud based Docker environment that let us prototype for:
 				<ul>
 					<li>Stakeholder approval</li>
 					<li>Internal testing</li>

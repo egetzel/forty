@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LMD Management
-description: The right product at the right time
+description: The perfect product for the Great Recession
 image: assets/images/hampden.jpg
 nav-menu: false
 show_tile: true
@@ -21,7 +21,7 @@ show_tile: true
 				<h2>Background</h2>
 			</header>
       <p><i>LMD Management is a full service real estate investment and operations company operating in Denver, Colorado.</i></p>
-			<p>In 2010, the commercial real estate market was at the heights of the Great Recession and banks were desperately looking for buyers to take foreclosed off of their balance sheets.
+			<p>In 2010, the commercial real estate market was at the height of the Great Recession and banks were desperately looking for buyers to take foreclosed off of their balance sheets.
 
 				At this time, a bank came to us to ask if we would be interested taking over a C class building in Denver, Colorado for roughly 40 cents on the dollar. We agreed. The case study below outlines:
 	    <ul>
@@ -33,7 +33,7 @@ show_tile: true
 	</section>
 <section id="two" class="spotlights">
 	<section>
-		<span class="image"><img src="{% link assets/images/louisiana-front.jpg %}" alt="" class="image" data-position="center center" /></span>
+		<span class="image"><img src="assets/images/louisiana-front.jpg" alt="" class="image" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -53,7 +53,7 @@ show_tile: true
 		</div>
 	</section>
   <section>
-			<span class="image"><img src="{% link assets/images/louisiana-inside.jpg %}" alt="" data-position="center center" /></span>
+			<span class="image"><img src="assets/images/louisiana-inside.jpg" alt="" data-position="center center" /></span>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -73,7 +73,7 @@ show_tile: true
 				<ul>
 					<li><b>Small</b> Your own 200 sqft office</li>
 					<li><b>Inexpensive</b> $200 / month</li>
-					<li><b>No commitement</b> Initial three month lease, which converts to month to month after.</li>
+					<li><b>No commitment</b> Initial three month lease, which converts to month to month after.</li>
 				</ul>
 				<p>The go to market for this product was pretty straight forward. We used largely used Craig's list and a referral system to find and attract new tenants.</p>
 			</div>
@@ -95,7 +95,7 @@ show_tile: true
 
 				We took their offer and applied the same strategy, and methodology and had similar results within the four months.</p>
 				<h4>Selling the company</h4>
-					<p>In 2014 an investement group offered to buy the entire commercial real estate portfolio.</p>
+					<p>In 2014 an investment group offered to buy the entire commercial real estate portfolio.</p>
 				<ul>
 					<li>7X return to investors</li>
 					<li>48 consecutive month of positive cash flow</li>
